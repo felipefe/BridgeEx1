@@ -1,0 +1,15 @@
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\bin\Debug\net6.0\BridgeEx1.exe
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\bin\Debug\net6.0\BridgeEx1.deps.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\bin\Debug\net6.0\BridgeEx1.runtimeconfig.json
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\bin\Debug\net6.0\BridgeEx1.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\bin\Debug\net6.0\BridgeEx1.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.csproj.AssemblyReference.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.AssemblyInfoInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.AssemblyInfo.cs
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.csproj.CoreCompileInputs.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\refint\BridgeEx1.dll
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.pdb
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\BridgeEx1.genruntimeconfig.cache
+D:\Documents\VSCode\Design Pattern Macorati\Estrutural\BridgeEx1\obj\Debug\net6.0\ref\BridgeEx1.dll

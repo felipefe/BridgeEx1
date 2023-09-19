@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BridgeEx1/1.0.0": {
+        "runtime": {
+          "BridgeEx1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgeEx1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
